@@ -145,5 +145,5 @@ MIT License (Recommended for academic projects)
 ## 👨‍💻 Author
 
 Mr. S. Alwyn Rajiv\
-FPGA & Embedded Systems Developer\
-Spartan-6 \| IoT \| AI + Hardware Integration
+Assistant Professor/ECE
+Kamaraj College of Engineering and Technology
