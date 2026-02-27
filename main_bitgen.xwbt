@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\alwynece\Desktop\Alwyn\Stopwatch\main.ncd
+OUTFILE=C:\Users\alwynece\Desktop\Alwyn\Stopwatch\main.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg484
+WORKINGDIR=C:\Users\alwynece\Desktop\Alwyn\Stopwatch
+LICENSE=WebPack
+USER_INFO=175551742_0_0_310

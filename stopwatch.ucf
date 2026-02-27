@@ -1,0 +1,30 @@
+##### system clock 100MHz #####
+NET clk LOC = D11; 
+
+##### buttons #####
+NET btn(1) LOC = E6; 
+NET btn(2) LOC = D5; 
+NET btn(3) LOC = A3;
+
+NET btn(0) LOC = P8; # rst,sw7
+
+###### switch #####
+NET swt LOC = V5; # sw0
+
+##### 7-seg anode #####
+NET an(1) LOC = P16; # 7-seg AN0
+NET an(0) LOC = M17; # 7-seg AN1
+NET an(3) LOC = N16; # 7-seg AN2
+NET an(2) LOC = P19; # 7-seg AN3
+NET an(5) LOC = AA20; # 7-seg AN4
+NET an(4) LOC = AB21; # 7-seg AN5
+
+##### 7-seg display #####
+NET seg(0) LOC=AA21; # 7-seg CA
+NET seg(1) LOC=AA22; # 7-seg CB
+NET seg(2) LOC=Y22; # 7-seg CC
+NET seg(3) LOC=N15; # 7-seg CD
+NET seg(4) LOC=AB19; # 7-seg CE
+NET seg(5) LOC=P20; # 7-seg CF
+NET seg(6) LOC=Y21; # 7-seg CG
+NET seg(7) LOC=P15; # 7-seg DP
